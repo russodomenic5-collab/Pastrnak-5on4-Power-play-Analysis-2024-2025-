@@ -17,7 +17,7 @@ The analysis compares the performance during **Pastrnak's Shifts (1st Unit)** ag
 ### Visual Proof of Process
 The final shot map displays Pastrnak's **individual shot locations (Goals, Shots on Net, Misses)** on a standardized rink, visually confirming his footprint on the power play.
 
-!(Pastrnak_Individual_ShotMap_Detailed.png)
+![Shot Map](Pastrnak_Individual_ShotMap_Detailed.png)
 
 ---
 ## 🧠 METHODOLOGY: A Case Study in Data Resourcefulness
