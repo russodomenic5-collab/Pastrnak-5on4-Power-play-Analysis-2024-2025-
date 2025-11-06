@@ -33,7 +33,7 @@ We initially attempted the **NHL API** but quickly realized it lacked reliable *
 
 ### 2. The Critical Contamination Fix
 * **The Problem:** We could not simply average the other players' stats to get the **Rest of Team (OFF)** baseline, as their statistics were contaminated by time they spent on the ice with Pastrnak.
-* **The Solution:** We used **three files**—Team $\text{PP TOI}$ (total), $\text{Pastrnak's ON TOI}$, and $\text{Pastrnak's OffIce\_F}$ stats—to mathematically calculate the **uncontaminated OFF TOI denominator**. This ensures the $\text{OFF}$ rate is a true, accurate baseline.
+* **The Solution:** We used **three files**—Team $\text{PP TOI}$ (total), $\text{Pastrnak's ON TOI}$, and $\text{Pastrnak's OffIce\F}$ stats—to mathematically calculate the **uncontaminated OFF TOI denominator**. This ensures the $\text{OFF}$ rate is a true, accurate baseline.
 
 ### 3. Feature Engineering and Transformation
 * **Rate Standardization:** All metrics were converted using the essential $(\text{Events} / \text{Minutes}) \times 60$ formula.
