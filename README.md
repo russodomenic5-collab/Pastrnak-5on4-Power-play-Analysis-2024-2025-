@@ -10,9 +10,11 @@ The analysis compares the performance during **Pastrnak's Shifts (1st Unit)** ag
 
 | Metric | Pastrnak (1st Unit Time) | Rest of PP Time (2nd Unit Proxy) | Conclusion |
 | :--- | :--- | :--- | :--- |
-| **Corsi For / 60 (CF/60)** | **[INSERT CF/60 VALUE]** | **[INSERT CF/60 VALUE]** | **Higher Volume:** Pastrnak's unit generates higher shot volume per minute. |
-| **Expected Goals / 60 (xG/60)** | **[INSERT xG/60 VALUE]** | **[INSERT xG/60 VALUE]** | **Higher Quality:** Higher probability of scoring per shot. |
-| **Goals For / 60 (GF/60)** | **[INSERT GF/60 VALUE]** | **[INSERT GF/60 VALUE]** | **More Lethal:** Higher actual goal-scoring rate per minute. |
+| **Corsi For / 60 (CF/60)** | **[104.70]** | **[82.79]** | **Higher Volume:** Pastrnak's unit generates higher shot volume per minute. |
+| **Expected Goals / 60 (xG/60)** | **[7.45]** | **[5.68]** | **Higher Quality:** Higher probability of scoring per shot. |
+| **Goals For / 60 (GF/60)** | **[5.58]** | **[3.50]** | **More Lethal:** Higher actual goal-scoring rate per minute. |
+
+![Rate Bar Chart](Pastrnak_Per60_BarChart_Annotated.png)
 
 ### Visual Proof of Process
 The final shot map displays Pastrnak's **individual shot locations (Goals, Shots on Net, Misses)** on a standardized rink, visually confirming his footprint on the power play.
