@@ -10,9 +10,9 @@ The analysis compares the performance during **Pastrnak's Shifts (1st Unit)** ag
 
 | Metric | Pastrnak (1st Unit Time) | Rest of PP Time (2nd Unit Proxy) | Conclusion |
 | :--- | :--- | :--- | :--- |
-| **Corsi For / 60 (CF/60)** | **[104.70]** | **[82.79]** | **Higher Volume:** Pastrnak's unit generates higher shot volume per minute. |
-| **Expected Goals / 60 (xG/60)** | **[7.45]** | **[5.68]** | **Higher Quality:** Higher probability of scoring per shot. |
-| **Goals For / 60 (GF/60)** | **[5.58]** | **[3.50]** | **More Lethal:** Higher actual goal-scoring rate per minute. |
+| **Corsi For / 60min (CF/60)** | **[104.70]** | **[82.79]** | **Higher Volume:** Pastrnak's unit generates higher shot volume per minute. |
+| **Expected Goals / 60min (xG/60)** | **[7.45]** | **[5.68]** | **Higher Quality:** Higher probability of scoring per shot. |
+| **Goals For / 60min (GF/60)** | **[5.58]** | **[3.50]** | **More Lethal:** Higher actual goal-scoring rate per minute. |
 
 ![Rate Bar Chart](Pastrnak_Per60_BarChart_Annotated.png)
 
